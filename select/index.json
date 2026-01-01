@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Folktale (~The White Lounge Version~ / Live)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-01-01T02:05:47.197278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Folktale (~The White Lounge Version~ / Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_Folktale_(~The_White_Lounge_Version~___Live)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "02. Folktale ~The White Lounge Version~",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_02._Folktale_~The_White_Lounge_Version~_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "02. Folktale ~The White Lounge Version~ (Live)FLAC",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_02._Folktale_~The_White_Lounge_Version~_(Live)FLAC_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Folktale (~The White Lounge Version~ / Live / From “The White Lounge in CINEMA” Soundtrack)",
+      "artist": "Mrs. Green Apple",
+      "has_synced": false,
+      "path": "select/04_Folktale_(~The_White_Lounge_Version~___Live___From_“The_White_Lounge_in_CINEMA”__Mrs._Green_Apple.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Folktale(The White Lounge Version)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Folktale(The_White_Lounge_Version)_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
